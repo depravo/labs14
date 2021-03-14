@@ -7,17 +7,6 @@
 
 using namespace std;
 
-int countNumbers(string s)
-{
-    int sum = 0;
-    for (int i = 0; i < s.length(); i++)
-    {
-        if ((int)s[i] > 47 && (int)s[i] < 58)
-            sum++;
-    }
-    return sum;
-}
-
 class isEqualSum {
 public:
     bool operator() (string s1, string s2)
@@ -25,6 +14,17 @@ public:
         int sum1 = countNumbers(s1), sum2 = countNumbers(s2);
         int length = s1.length() > s2.length() ? s1.length() : s2.length();
         return (sum1 == sum2);
+    }
+private:
+    int countNumbers(string s)
+    {
+        int sum = 0;
+        for (int i = 0; i < s.length(); i++)
+        {
+            if ((int)s[i] > 47 && (int)s[i] < 58)
+                sum++;
+        }
+        return sum;
     }
 };
 
