@@ -1,0 +1,10 @@
+D:\1_курс\Программирование\c#\Durak\Durak\bin\Debug\Durak.exe.config
+D:\1_курс\Программирование\c#\Durak\Durak\bin\Debug\Durak.exe
+D:\1_курс\Программирование\c#\Durak\Durak\bin\Debug\Durak.pdb
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.csprojAssemblyReference.cache
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.Form1.resources
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.Properties.Resources.resources
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.cache
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.csproj.CoreCompileInputs.cache
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.exe
+D:\1_курс\Программирование\c#\Durak\Durak\obj\Debug\Durak.pdb
